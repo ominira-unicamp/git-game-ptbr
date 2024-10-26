@@ -1,5 +1,5 @@
 git-game
 ========
 
-Looks like you found yourself on the wrong branch!
+Parece que você se perdeu na branch errada!
 
