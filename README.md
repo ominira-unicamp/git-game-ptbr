@@ -1,14 +1,13 @@
 git-game
 ========
 
-``Level 6``
+``Nível 6``
 
-Welcome to the "tree" branch. 
-Looks like good ol' Linus modified the "nextclue_input.cpp" file. 
-Normally, when ran with the shell script "outputclue.sh", the "nextclue_input.cpp" file would give us the next hint.
+Bem vinde à branch "arvore".
+Parece que o bom e velho Linus modificou o arquivo "proximadica_input.cpp".
+Normalmente, quando rodado com o script "outputdica.sh", o arquivo "proximadica_input.cpp" nos daria a próxima dica.
 
-Maybe, you should try running the shell script with the "nextclue_input.cpp" file and see what happens...
+Talvez você deva tentar rodar o script com o "proximadica_input.cpp" e ver o que acontece...
 
-You can run the script by running the command "./outputclue.sh FILE" .
-If you are on Windows, it's okey to use `git-bash` that is installed with [msysgit](https://msysgit.github.io/).
+Rode o script com o comando `./outputdica.sh ARQUIVO`. Se você estiver no Windows, é ok usar `git-bash` que é instalado com [msysgit](https://gitforwindows.org/)
 
