@@ -1,35 +1,33 @@
-# Welcome to the git-game!! 
+# Bem vinde ao git-game!! 
 
-This is a terminal game designed to test your knowledge of git commands.
-Each level in the game is a task to perform on this repo.
-Once you perform that task, you will be given your next task.
-  There are a total of ten levels, each one harder than last!
+Esse é um jogo de terminal desenvolvido para testar seu conhecimento em comandos git.
+Cada nível no jogo é uma tarefa para executar neste repositório.
+Uma vez que você fizer a tarefa você receberá a próxima.
+  Existe dez níveis no total, cada um mais difícil que o último!
 
-### Let's get this journey started!! 
-Clone this repository by running:
+### Vamos começar esta jornada!!
+Clone este repositório rodando:
 
 ```
 $ git clone https://github.com/hgarc014/git-game.git
 ```
-**Don't know a lot about git??**
 
-Then you should check these files for assistance:
+**Não sabe muito de git??**
+
+Então você deve checar esses arquivos para ajuda (em Inglês):
 
 https://github.com/mikeizbicki/ucr-cs100/blob/2015winter/textbook/cheatsheets/git-cheatsheet.md
 
 https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/textbook/tools/git/advanced-git
 
-Otherwise, you are free to continue...
+Caso não, você está livre para continuar...
 
-**You can win a badge for completing this game!**
 
-learn more about badges here: https://openbadgefactory.com/faq
+**Você deve sempre checar o arquivo README.md para sua próxima dica!**
 
-**You should always check the README.md file for your next clue!**
+``Nível 1``
 
-``Level 1``
+Sua primeira tarefa é verificar o commit que a mensagem de commit é a resposta para esta questão:
 
-Your first task is to checkout the commit whose commit message is the answer to this question: 
-
-> When a programmer is born, what is the first thing he/she learns to say?
+> Quando uma pessoa aprende a se comunicar com as máquinas, quais suas primeiras palavras?
 
