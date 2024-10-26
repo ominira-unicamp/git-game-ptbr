@@ -1,11 +1,11 @@
 git-game
 ========
 
-Looks like you found the branch of the evil Mastermind.
-Things may start to get a little more challenging...
+Parece que você encontrou a branch do gênio do mal.
+As coisas começam a ficar um pouco mais difíceis...
 
-``Level 4``
+``Nível 4``
 
-The next clue you are looking for --
-   is in a file you choose to ignore!
+A próxima dica que você está procurando --
+    está em um arquivo que você escolhe ignorar! 
 

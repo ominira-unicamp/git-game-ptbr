@@ -1,24 +1,25 @@
-# welcome to the ignore file!!
+# Bem vindo ao arquivo de gitignore!!
+# Aqui você configura arquivos que não serão adicionados com o git add.
 
-#``Level 5``
+#``Nível 5``
 
-# This file is hidden by default, 
-# but did you know you have some branches that aren't shown to you,
-# when you check the list of branches?
+# Este arquivo é oculto por padrão,
+# mas você sabia que tem algumas branches que não são mostrados para você,
+# quando você verifica a lista de branches?
 #
-# For your next clue...
-# Which abstract data type tends to implement sets and maps?? 
-# The answer is the same answer to this riddle:
+# Para a sua próxima dica...
+# Qual tipo abstrato de dados tende a implementar conjuntos e mapas??
+# A resposta é a mesma resposta para esta charada:
 #
-#   I am both mother and father.
-#   I am seldom still
-#   yet I never wander.
-#   I never birth nor nurse.
-#   
-#   What am I?
+#   Eu sou alta, mas não sou uma montanha.
+#   Raramente fico parada
+#   mas nunca saio do lugar.
+#   Bebo água, mas não tenho sede.
 #
-# Afterwards... well, you
-# know, checkout to the answer. 
+#   O que sou eu?
+#
+# Em seguida... bem, você
+# sabe, mude para a resposta. 
 
 *.rem
 a.out
