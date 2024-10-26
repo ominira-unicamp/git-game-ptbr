@@ -1,17 +1,17 @@
 git-game
 ========
 
-``Level 10``
+``Nível 10``
 
-Welcome!! It looks like you made it to my Branch!!!
-Generally you want to refrain from making tags the same name as branches, unless you have a good reason.
-The tag is more like the stable release.
-While the branch is more like the in progress feature, which will be added soon.
+Bem vinde!! Parece que você conseguiu chegar em minha branch!!
+Geralmente você quer evitar fazer tags com o mesmo nome de branches, a não ser que você tenha uma boa rasão.
+A tag é mais como uma versão do produto.
+Enquanto a branch é mais como as atualizaçõs em projetos que serão lançadas em breve.
 
-You're almost done!! Excited?? Hope you are! You have one more thing to do!
+Você está quase lá!! Animade?? Esperamos que sim! Você tem mais uma coisa a fazer!
 
-Now its time to update the master branch, updating is really useful when you fork a repository and your forked repo starts to get behind on commits. The repository to update from is: https://github.com/drami025/git-game.git
+Agora é hora de atualizar a branch `main`, atualizar é realmente útil quando você faz um fork de um repositório e seu fork começa a ficar atrás dos commits. O repositório para buscar a atualização é: https://github.com/gvinfinity/git-game.git
 
-Don't cheat!!
+Não roube!!
 
-Here is a [link](https://help.github.com/articles/configuring-a-remote-for-a-fork/) that explains how to fork a remote repository.
+Aqui está um [link](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-repository-for-a-fork) que explica como adicionar um repositório remoto como origem de um fork.
