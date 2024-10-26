@@ -1,4 +1,4 @@
-# Bem vinde ao git-game!! 
+ # Bem vinde ao git-game!! 
 
 Esse é um jogo de terminal desenvolvido para testar seu conhecimento em comandos git.
 Cada nível no jogo é uma tarefa para executar neste repositório.
@@ -9,7 +9,7 @@ Uma vez que você fizer a tarefa você receberá a próxima.
 Clone este repositório rodando:
 
 ```
-$ git clone https://github.com/hgarc014/git-game.git
+$ git clone https://github.com/ominira-unicamp/git-game-ptbr.git
 ```
 
 **Não sabe muito de git??**
