@@ -1,12 +1,12 @@
 git-game
 ========
 
-``Level 8``
+``Nível 8``
 
-Looks like you resolved your conflict and found our branch, congrats!! 
+Parece que você resolveu os conflito e encontrou nossa branch, parabéns!!
 
-Hmm...it seems this branch has a file that was seen before in another branch. 
-Do you "remember" what it is?
-I think this file has something to do with the next clue, but it seems to be very ugly looking. 
-Maybe if we compare the "diff"erences between this file and the file from before we'll know where to go next...
+Hmm...parece que essa branch tem um arquivo que eu já vi em outra branch.
+Você "lembra" o que é?
+Eu acho que esse arquivo tem algo a ver com a próxima dica, mas ele parece ser bem feio.
+Talvez se nós compararmos as "diff"erenças entre esse arquivo e o arquivo de antes nós saberíamos onde ir em seguida...
 
