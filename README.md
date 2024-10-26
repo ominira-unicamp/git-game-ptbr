@@ -1,17 +1,17 @@
 git-game
 ========
 
-Congratulations, it looks like you found the "bug."
-When you work with other programmers on the same project, bugs are bound to appear.
-One way to create bugs is by changing code that you did not write without understanding what the code is doing.
+Parabéns, parece que você encontrou o "bug".
+Quando você trabalha com outres programadores no mesmo projeto, bugs vão aparecer.
+Uma forma de criar bugs é mudando código que você não escreveu, sem entender o que ele está fazendo.
 
-``Level 3``
+``Nível 3``
 
-Sometimes we like to blame others for introducing bugs in our code. 
-Think you can find out who introduced a bug into our file cool.cpp? 
-We think he had something to do with the development of git.
-And from what we hear he also made a branch under his name.
-Checkout to that branch after you find out who the culprit is. 
+As vezes nós gostamos de culpar os outros por colocarem bugs em nossos códigos.
+Você acha que consegue encontrar quem introduziu um bug em nosso arquivo cool.cpp?
+Nós achamos que ele teve algo a ver com o desenvolvimento do git.
+E pelo que nós ouvimos ele também fez uma branch em seu nome.
+Mude para aquela branch depois de encontrar o culpado.
 
-If you are still confused, this link might [help](http://git-scm.com/docs/git-blame)
+Se você ainda estiver confuso, esse link pode [ajudar](http://git-scm.com/docs/git-blame)
 
